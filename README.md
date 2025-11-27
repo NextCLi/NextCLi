@@ -8,6 +8,14 @@
 #### 平台本身支持多种区块链加密货币支付，平台的业务通知渠道同时支持邮件和Telegram BOT通知！让您更方便的关注自身业务/服务动态！
 
 
+.
+
+## 升级日志 Changelog
+https://docs.nextcli.com/docs/changelog
+
+## 关于我们 About US / 联系我们 Contact Us
+https://docs.nextcli.com/about-us
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NextCLi)
 
