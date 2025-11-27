@@ -1,5 +1,5 @@
 ## 🌐 NextCLi.com 平台介绍 
-#### 服务器/VPS/ 销售 https://my.NextCLi.com 👩‍💻客服 [@NextCLiBOT](https://t.me/NextCLiBOT)
+#### 服务器/VPS/域名注册 https://my.NextCLi.com 👩‍💻客服 [@NextCLiBOT](https://t.me/NextCLiBOT)
 #### Cloud云服务 https://Cloud.NextCLi.com 👩‍💻云客服 [@NextCLiCloudBOT](https://t.me/NextCLiCloudBOT)
  1. 网址一键打包成多端APP客户端
  2. APP内置VPN SDK
@@ -12,7 +12,6 @@
  1. Telegram BOT客服机器人
  2. Telegram群管理机器人
  3. Telegram 加密货币监控通知机器人
-
 #### 👩‍💻 客服 [@NextCLiCloudBOT](https://t.me/NextCLiCloudBOT)
 -----
 
