@@ -17,7 +17,7 @@ https://docs.nextcli.com/docs/changelog
 https://docs.nextcli.com/about-us
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NextCLi)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com/NextCLi/NextCLi)
 
 
 
